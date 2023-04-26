@@ -13,10 +13,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
-![LiferLifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiferLifer&show_icons=true&count_private=true)
+Meow~ Here is Lifer,
 
-等等，才不是全是MATLAB呜呜QAQ
+Undergraduate student, majoring in Automation, Southern University of Science and Technology.
 
-![LiferLifer's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiferLifer&layout=compact)
+<br />
+
+ww(ﾟДﾟ)ww
+
+呜呜，我今年到底摸了多少🐟qwwwwq
+
+<p>
+
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liferlifer&theme=vue"/> 
+
+ <img height=139 src="https://github-readme-stats.vercel.app/api?username=liferlifer&show_icons=true&count_private=true&theme=vue"> 
+
+ <img height=139 src="https://github-readme-stats.vercel.app/api/top-langs/?username=liferlifer&layout=compact&theme=vue&hide=html,javascript">
+
+<p>
+
+~~等等，才不是MATLAB百分百呜QAQ~~
