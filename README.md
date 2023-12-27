@@ -35,12 +35,12 @@ ww(ﾟДﾟ)ww
 
  <img width=700 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liferlifer&theme=vue"/> 
 
- <img height=153 src="https://github-readme-stats.vercel.app/api?username=liferlifer&show_icons=true&count_private=true&theme=vue"> 
+ <img height=173 src="https://github-readme-stats.vercel.app/api?username=liferlifer&show_icons=true&count_private=true&theme=vue&text_color=417e87&hide_rank=false&rank_icon=github"> 
 
- <img height=153 src="https://github-readme-stats.vercel.app/api/top-langs/?username=liferlifer&layout=compact&theme=vue&hide=html,javascript">
+ <img height=173 src="https://github-readme-stats.vercel.app/api/top-langs/?username=liferlifer&layout=donut&theme=vue&hide=html,javascript">
   
 <p>
 
-~~等等，才不是MATLAB百分百呜QAQ~~
+~~等等，才不是 MATLAB 百分百呜QAQ~~
   
-~~哦，现在已经不是了，但是颜色好丑呜呜呜~~
+~~哦，现在已经不是了，但是 JVAV 颜色好丑呜呜呜~~
