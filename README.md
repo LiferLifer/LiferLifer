@@ -21,9 +21,9 @@ Undergraduate student, majoring in Automation, Southern University of Science an
 
 <br />
 
-电子求生营 资源共享链接：https://1drv.ms/f/s!Al7K9uRKNzIBg7pJk3fv-29bLuDHNw
+电子求生营 资源共享链接：[click here](https://1drv.ms/f/c/0132374ae4f6ca5e/Ql7K9uRKNzIggAFJ3QAAAAAAk3fv-29bLuDHNw)
 
-萨斯泰克自动化 资源共享链接：https://1drv.ms/f/s!Al7K9uRKNzIBhNVySrqR_suLnGd6fA
+萨斯泰克自动化 资源共享链接：[click here](https://1drv.ms/f/c/0132374ae4f6ca5e/Ql7K9uRKNzIggAHyKgEAAAAASrqR_suLnGd6fA)
 
 <br />
 
